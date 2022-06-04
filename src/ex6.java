@@ -3,7 +3,7 @@
 import java.sql.*;
 
 public class ex6 {
-    public static void main(String[] args) throws SQLException {
+    public static void main(String[] args) {
         //int a = 16;
         //int b = 12;
         //int c = 7;
