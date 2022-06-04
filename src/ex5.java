@@ -25,10 +25,6 @@ public class ex5 {
             System.out.println("id = " + rs.getInt("id"));
         }
 
-        //jdbc:sqlite:"/home/sergio.marchiori/repos/pde/pde_2022.db";
-
-
-
     }
 }
 
