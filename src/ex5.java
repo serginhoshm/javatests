@@ -23,6 +23,8 @@ public class ex5 {
             // read the result set
             System.out.println("tema = " + rs.getString("tema"));
             System.out.println("id = " + rs.getInt("id"));
+            // só um comentário
+
         }
 
     }
