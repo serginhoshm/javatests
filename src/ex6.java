@@ -27,6 +27,7 @@ public class ex6 {
             System.out.println("id = " + rs.getInt("id"));
             // só um comentário de novo
 
+        @olist colocou uma linha aqui 
 
         }*/
 
