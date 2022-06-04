@@ -8,6 +8,7 @@ public class ex6 {
         //int b = 12;
         //int c = 7;
         System.out.println("Arquivo para teste de conflitos");
+        System.out.println("tiro, porrada e bomba");
         //Sou um usuário que comitou este fonte pela primeira vez
 
 
