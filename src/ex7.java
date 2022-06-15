@@ -1,5 +1,7 @@
 //import xerial.sqlite.jdbc;
 
+import java.sql.SQLOutput;
+
 public class ex7 {
     public static void main(String[] args) {
         int a = 12;
@@ -25,6 +27,7 @@ public class ex7 {
         else {
             System.out.println("B não é igual a C");
         }
+
 
         //Sou um usuário que comitou este fonte pela primeira vez
 
